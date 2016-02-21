@@ -1,0 +1,28 @@
+name: seansallings
+favicon: null
+layout_spectrum: 0.4220876470208168
+typography_spectrum: 0.7965051718056202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4439641823992133
+  lightness: 0.6020664891693741
+  saturation: 0.67653674678877
+  rhythmicContrast: 0.38102610083296895
+purpose: []
